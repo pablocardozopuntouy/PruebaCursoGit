@@ -1,1 +1,1 @@
-sigue siendo para probar
+Ahora para probar cómo sería el trabajo inverso, o sea, levantar los cambios que alguien más haya hecho y lo replico en local.
